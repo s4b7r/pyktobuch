@@ -2,6 +2,7 @@
 **/*.csv
 **/*.xls
 
+.ipynb_checkpoints/
 
 .vscode/*
 !.vscode/settings.json
